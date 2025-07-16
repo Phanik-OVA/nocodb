@@ -8,7 +8,9 @@
     .no-scrollbar::-webkit-scrollbar {
       display: none;
     }
-
+    .nc-sidebar-splitpane {
+      display: none !important;
+    }
     .no-scrollbar {
       -ms-overflow-style: none; /* IE and Edge */
       scrollbar-width: none; /* Firefox */
